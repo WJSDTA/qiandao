@@ -1,6 +1,6 @@
 # JLU每日四次打卡工具
 ## 用法
-下载代码，在目录创建infomation.txt 文件，输入
+下载代码，在目录创建information.txt 文件，输入
 ```
 {"username": "your username", "password": "your PassWord", "major": "yourmajor", "dornum": "your room num"}
 ```
